@@ -34,7 +34,10 @@ java application/Program
 ```
 
 # ⌨️ Terminal Git Bash
-![ezgif-6-1557b3d13d](https://github.com/paulfms/chess-system-java/assets/15272145/4ad474c4-9e4b-4d49-99d1-815a127969c7)
+
+![ezgif-6-1557b3d13d](https://github.com/paulfms/chess-system-java/assets/15272145/5d3886af-c38b-4afe-b301-11e45fd54f59)
+
+
 
 
 ## 🎉 Agradecimentos
